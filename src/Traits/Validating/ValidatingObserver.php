@@ -4,7 +4,7 @@ namespace  Rinvex\Subscriptions\Traits\Validating;
 
 use Illuminate\Database\Eloquent\Model;
 use Illuminate\Support\Facades\Event;
-use  Rinvex\Subscriptions\Traits\Validating\ValidationException;
+use Rinvex\Subscriptions\Traits\Validating\ValidationException;
 
 class ValidatingObserver
 {
